@@ -1,3 +1,7 @@
+@charset "UTF-8";#wpadminbar
+{
+    position:fixed!important}body.admin-bar.f-topbar-fixed .sticky.fixed{margin-top:2rem}.wp-caption>figcaption{max-width:100%;font-size:.8rem;color:#999;padding:.25rem 0}p.wp-caption-text{font-size:90%;color:#666;padding:.625rem 0}.alignleft{float:left;padding-right:1rem;margin:0}.alignright{float:right;padding-left:1rem;margin:0}.aligncenter{display:block;margin-left:auto;margin-right:auto}
+
 li
 {
     padding-top:5px;
