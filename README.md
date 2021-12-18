@@ -1,8 +1,7 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/tomseedorf/medikeeper/main/style.css">
+  <link rel="stylesheet" type="text/css" href="https://tomseedorf.github.io/style.css">
 </head>
 <body>
 
