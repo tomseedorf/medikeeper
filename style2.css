@@ -5,7 +5,8 @@
   position: relative;
   margin: 18px 18px 18px 18px;
   width: 75%;
-  border-spacing 10px
+  border-spacing: 10px;
+  border-collapse: separate;
 }
 
 li
