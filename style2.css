@@ -1,9 +1,13 @@
-.wiki-content td, table
+.wiki-content table
+{
+  border-collapse: separate !important;
+  border-spacing: 25px !important;
+}
+
+.wiki-content td
 {
   border: 3px solid #66B456;
   box-shadow: 5px 5px 5px #888888;
-  border-collapse: separate !important;
-  border-spacing: 25px !important;
 }
 
 li
