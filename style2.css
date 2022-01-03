@@ -18,7 +18,7 @@ td.user-portal
 background: linear-gradient(180deg, rgba(0,212,255,1) 0%, rgba(93,152,166,1) 100%);
 }
 
-.wikicontent td ac:link
+.wikicontent td p
 {
   color: white;
 }
