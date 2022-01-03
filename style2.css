@@ -7,7 +7,7 @@
 
 .wiki-content td
 {
-  border: 3px solid #66B456;
+ 
   box-shadow: 5px 5px 5px #888888;
 }
 
@@ -15,6 +15,16 @@ td.user-portal
 {
   background: rgb(0,212,255);
 background: linear-gradient(180deg, rgba(0,212,255,1) 0%, rgba(93,152,166,1) 100%);
+}
+
+td a
+{
+  color: white;
+}
+
+td a:hover
+{
+  text-decoration: underline;
 }
 
 li
