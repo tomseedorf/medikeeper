@@ -18,6 +18,10 @@
   min-width: 200px;
 }
 
+.wiki-content td img
+{
+  vertical-align: bottom;
+}
 
 li
 {
