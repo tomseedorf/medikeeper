@@ -16,6 +16,11 @@
   height:75%;
 }
 
+.wiki-content tr
+{
+  height:75%; 
+}
+
 li
 {
     padding-top:5px;
